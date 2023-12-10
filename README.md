@@ -1,3 +1,8 @@
+--Preview
+
+![two-good](https://github.com/Amardeep-sys/two-good-co/assets/139546920/5abdbf32-e4d2-4342-8219-9094d07f83f5)
+
+
 # Two Good Co Clone
 
 This is a clone of Two Good Co, created for educational purposes. The goal of this project was to learn and understand the visual effects and design used in the original website.
